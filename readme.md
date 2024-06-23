@@ -14,8 +14,8 @@ Response:
 
 ```json
 {
-	"cards" ["2h", "3s", "4r", "5h", "ar"],
-    "rank": "Straight",
+  "cards": ["2h", "3s", "4r", "5h", "ar"],
+  "rank": "Straight"
 }
 ```
 
